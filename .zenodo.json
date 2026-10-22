@@ -1,0 +1,20 @@
+{
+  "title": "FEMA flood mitigation grants align with past losses but not new floodplain development: code and derived data",
+  "upload_type": "software",
+  "description": "Code and derived data for a national analysis of whether FEMA Hazard Mitigation Assistance funding, applications and project sites are associated with new development in mapped floodplains of the contiguous United States (2000-2025). The archive contains the analysis scripts, derived county, county-year and ZIP-code tables, model outputs, the analysis plan and the source, download date and checksum of every public input file. Code is released under the MIT licence; derived data under CC BY 4.0.",
+  "creators": [
+    {
+      "name": "Silwal, Abinash",
+      "affiliation": "Space Generation Advisory Council"
+    }
+  ],
+  "license": "mit",
+  "keywords": [
+    "floodplain development",
+    "flood exposure",
+    "hazard mitigation",
+    "FEMA",
+    "National Flood Insurance Program",
+    "land cover change"
+  ]
+}

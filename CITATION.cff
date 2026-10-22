@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite it as below."
+title: "FEMA flood mitigation grants align with past losses but not new floodplain development: code and derived data"
+authors:
+  - family-names: Silwal
+    given-names: Abinash
+    affiliation: "Space Generation Advisory Council"
+license: MIT
+repository-code: "https://github.com/abinashsilwal/fema-floodplain-mitigation"
+keywords:
+  - floodplain development
+  - flood exposure
+  - hazard mitigation
+  - FEMA
+  - National Flood Insurance Program
+  - land cover change
