@@ -1,7 +1,7 @@
 # FEMA mitigation grants and new floodplain development
 
 Code and derived data for the article "FEMA mitigation grants track past losses but not new floodplain
-development" (Silwal et al., in preparation).
+development".
 
 The study combines Annual NLCD Collection 1.2 land cover (2000-2025), the FEMA National Flood Hazard Layer, and
 FEMA's national records of Hazard Mitigation Assistance (HMA) subapplications, project site inventories, NFIP
@@ -77,4 +77,4 @@ domain.
 
 ## Citation
 
-Silwal, A. et al. FEMA flood mitigation grants align with past losses but not new floodplain development (in preparation).
+Please cite the archived release of this repository (DOI on Zenodo).
