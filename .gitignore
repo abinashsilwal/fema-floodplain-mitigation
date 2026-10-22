@@ -1,0 +1,12 @@
+# downloads and intermediate files are recreated by the scripts
+data/raw/*
+!data/raw/provenance.csv
+data/interim/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/figures/
+!data/raw/nfhl_catalog.csv
+!data/raw/openfema/
+data/raw/openfema/*
+!data/raw/openfema/HmaSubapplications_v2.parquet

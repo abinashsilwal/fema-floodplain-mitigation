@@ -1,0 +1,15 @@
+,0
+huc10_matched,12527.0
+huc10_epa,12530.0
+counties_with_ead_aw,3095.0
+spearman_base_centroid_vs_aw,0.8947995765108373
+spearman_chg5_centroid_vs_aw,0.9469709961120806
+aw_n_unf,214.0
+aw_n_fun,538.0
+aw_unf_median,15.505884598539119
+aw_fun_median,14.16026439863298
+aw_unf_q25,3.0778895915050257
+aw_unf_q75,29.090520458165116
+aw_fun_q25,5.207741492540665
+aw_fun_q75,29.29205000969287
+aw_perm_p,0.4378

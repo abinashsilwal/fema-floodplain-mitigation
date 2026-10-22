@@ -1,0 +1,20 @@
+name: floodplain-mitigation
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - numpy=2.4
+  - pandas=2.3
+  - pyarrow=26
+  - geopandas=1.1
+  - pyogrio=0.12
+  - shapely=2.1
+  - pyproj=3.7
+  - rasterio=1.4
+  - affine=2.4
+  - statsmodels=0.15
+  - libpysal=4.14
+  - esda=2.9
+  - matplotlib=3.10
+  - contextily=1.7
+  - requests=2.33

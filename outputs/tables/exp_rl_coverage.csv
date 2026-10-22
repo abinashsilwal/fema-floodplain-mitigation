@@ -1,0 +1,10 @@
+group,rl_props,rl_mitigated,rl_pct_mitigated,srl_props,srl_pct_mitigated
+CONUS (all counties),237154.0,13154.0,5.55,49865.0,20.05
+Midwest,18662.0,975.0,5.22,3684.0,20.71
+Northeast,52980.0,2178.0,4.11,9739.0,17.27
+South,159191.0,9748.0,6.12,35278.0,20.86
+West,6321.0,253.0,4.0,1164.0,16.75
+"High growth, funded",163855.0,9508.0,5.8,36150.0,19.79
+"High growth, no funding",3226.0,93.0,2.88,548.0,12.96
+"Lower growth, funded",35536.0,1667.0,4.69,6760.0,19.19
+"Lower growth, no funding",5038.0,149.0,2.96,868.0,13.25

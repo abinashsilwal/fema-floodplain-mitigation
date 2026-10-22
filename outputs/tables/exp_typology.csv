@@ -1,0 +1,5 @@
+type,counties,pop2020,new_dev_sfha_km2,insured_new_bldg,claims_paid,ead_chg5_median,share_new_dev
+"High growth, funded",563,186594759.0,3308.64,565294.0,56593783899.42,13.45,70.28
+"High growth, no funding",214,17962641.0,651.22,11931.0,408957919.5,13.63,13.83
+"Lower growth, funded",715,53717230.0,372.35,42252.0,10976627113.05,9.34,7.91
+"Lower growth, no funding",839,24904792.0,375.89,8125.0,481811850.99,9.03,7.98

@@ -1,0 +1,6 @@
+threshold,km2,n_high,pct_unfunded,pct_new_dev_unfunded
+tercile,1.26,777,27.54,16.45
+quartile,1.66,583,26.07,15.28
+median,0.71,1166,33.28,18.85
+decile,3.87,234,16.24,10.21
+tercile of % growth,,768,40.62,18.49

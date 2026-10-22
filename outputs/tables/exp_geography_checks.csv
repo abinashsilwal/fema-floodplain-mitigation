@@ -1,0 +1,27 @@
+,0
+nc_n,777
+nc_texas,120
+cov_inland_n,2099
+coastal_cty_pct,8.815958815958815
+coastal_obl_pct,51.04267782090303
+coastal_pop_pct,30.761795046322842
+coastal_newdev_pct,25.84213064226516
+nc_west,253
+nc_midwest,244
+nc_south,224
+nc_northeast,56
+nc_nonmetro_pct,61.64736164736164
+cov_nonmetro_pct,55.8987558987559
+nc_pop_pct,13.49231166162036
+nc_claims_pct,9.784275218259562
+gfp_growth_share_uncovered_pct,17.590885883889932
+gfp_rho_growth,0.6578810290457477
+gfp_rho_level,0.6112442117639845
+gfp_n,2121
+fl_tx_share_pct,31.828242906776143
+top10_share_pct,63.11231116994586
+top10_states,"FL, TX, LA, CA, AR, MS, NC, MO, GA, AZ"
+unf_top_states,"TX, KS, AR, MO, MS"
+unf_coastal_pct,3.2710280373831773
+mit_zone_known_pct,32.3234530801803
+mit_in_sfha_pct,88.26910074374578

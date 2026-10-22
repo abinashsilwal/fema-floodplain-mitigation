@@ -1,0 +1,14 @@
+check,universe,value_a,value_b,tolerance,ok
+Insured units per year x 24 = total,CONUS counties; built 2001-2024; insured 2024,709132.9999999999,709133.0,1.0,True
+Mitigated buildings per year x 24 = total,CONUS counties; HMA FY2001-2024,53641.0,53641.0,1.0,True
+Flows total = Table 3 CONUS insured units,CONUS counties; built 2001-2024,709133.0,709133.0,0.5,True
+Flows total = Table 3 CONUS mitigated,CONUS counties; FY2001-2024,53641.0,53641.0,0.5,True
+Regions sum to covered-county total (insured units),covered counties,627602.0,627602.0,0.5,True
+"Regions sum to covered-county total (mitigated, unrounded)",covered counties,48066.34,48066.340000000004,0.5,True
+Ratio in text = flows ratio,CONUS counties,13.2,13.2,0.05,True
+Table S2 primary = Table 4 (new exposure AME),"covered counties, complete cases",-0.3964270196079089,-0.3964270196079089,1e-06,True
+Table S2 primary = Table 4 (SE),"covered counties, complete cases",2.412425927304584,2.412425927304584,1e-06,True
+Model n = sample-flow n,covered counties,2103.0,2103.0,0.0,True
+Covered - dropped = model n,covered counties,2103.0,2103.0,0.0,True
+Typology classes sum to covered counties,covered counties,2331.0,2331.0,0.0,True
+Typology classes sum to added A-zone land,"covered counties, km2",4708.1,4708.0,1.0,True

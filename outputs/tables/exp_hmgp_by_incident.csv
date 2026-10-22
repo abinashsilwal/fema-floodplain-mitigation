@@ -1,0 +1,18 @@
+incidentType,obl_real_alloc
+Hurricane/tropical/coastal storm,57.0
+Severe Storm,20.0
+Flood,11.42
+Biological,5.53
+Fire,1.99
+Severe Ice Storm,1.89
+Snowstorm,0.88
+Tornado,0.5
+Unknown,0.35
+Earthquake,0.19
+Dam/Levee Break,0.11
+Mud/Landslide,0.08
+Winter Storm,0.02
+Other,0.02
+Tsunami,0.01
+Freezing,0.0
+"(hurricane-type declarations titled 'flood', % of their $)",0.07
