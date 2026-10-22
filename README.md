@@ -77,4 +77,4 @@ domain.
 
 ## Citation
 
-Silwal, A. et al. FEMA mitigation grants track past losses but not new floodplain development (in preparation).
+Silwal, A. et al. FEMA flood mitigation grants align with past losses but not new floodplain development (in preparation).
