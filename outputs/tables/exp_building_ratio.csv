@@ -1,0 +1,7 @@
+area,counties,insured_new_sfha_bldg,est_new_sfha_res_struct,acquired,elevated,ratio_insured_per_mitigated,ratio_est_per_mitigated
+CONUS (covered counties),2331,627602.0,515140.57,35699.51,12366.83,13.06,10.72
+Midwest,811,11792.0,48313.05,10188.33,161.5,1.14,4.67
+Northeast,161,41256.0,18526.42,5563.93,2589.83,5.06,2.27
+South,1198,532011.0,370593.4,19008.08,9188.0,18.87,13.14
+West,161,42543.0,77707.7,939.17,427.5,31.13,56.86
+CONUS (all counties),3108,709133.0,,38944.0,14697.0,13.22,

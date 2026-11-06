@@ -1,0 +1,5 @@
+fingerprint,unique_sites,funded_sites,funded_built_2001_pct,never_funded_sites,never_funded_built_2001_pct
+No matching (all records),8659,2701,4.924102184376157,5958,5.068815038603558
+"Main fingerprint, >=5 known",7816,2652,4.97737556561086,5164,5.305964368706429
+"Main fingerprint, any known",7816,2652,4.97737556561086,5164,5.305964368706429
+"Loose: ZIP, year built, structure",5687,2246,5.6099732858414955,3441,6.2772449869224065

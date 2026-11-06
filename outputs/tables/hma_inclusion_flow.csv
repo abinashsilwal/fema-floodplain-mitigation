@@ -1,0 +1,10 @@
+step,records,obligated_nominal_usd
+"All HMA subapplication records (v2, retrieved 2026-10-20)",63610,25405958781.41
+With obligated federal funds > 0 (excl. FMAG-HMGP),38922,25403559764.489998
+"Mitigation projects (plans, management, scoping, TA removed)",26451,22693288403.62
+Located in CONUS state,25208,21225435829.760002
+Assigned to >=1 county,23639,19210821854.36
+  of which single-county,22903,17920394811.489998
+Statewide or missing county,1345,1935052384.7299995
+County name not matched,224,79561590.66999999
+Flood-activity projects assigned to counties (primary),10018,9905257745.49

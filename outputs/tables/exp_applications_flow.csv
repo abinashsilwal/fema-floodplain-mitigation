@@ -1,0 +1,10 @@
+step,count
+"Flood-mitigation subapplications submitted, FY2001-2023 (unique)",12733
+  funded (obligation > 0),7066
+"  not funded (denied, ineligible, not selected, withdrawn)",2920
+  closed with no obligation and no payment,1920
+"  still pending, submitted or otherwise undecided",827
+Application-county pairs (multi-county applications counted once per county),14110
+  pairs in covered counties with complete covariates,11291
+  of which decided (model column 4),9057
+"  of which decided, funded",6338

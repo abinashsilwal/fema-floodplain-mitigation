@@ -1,0 +1,10 @@
+,0
+n,2103
+n_funded,1201
+states_in_model,43
+mcfadden_r2,0.2927029597647989
+auc,0.8458158482122252
+auc_without_state_fe,0.77982963199551
+max_vif,3.6099409090512133
+max_vif_term,x_base_exp
+corr_new_base,0.7965808766113645
